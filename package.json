@@ -1,0 +1,13 @@
+{
+  "name": "connect-mongolian",
+  "version": "0.0.1",
+  "description": "MongoDB session store for Connect and Mongolian",
+  "keywords": ["connect", "mongo", "mongodb", "session", "express","mongolian"],
+  "author": "Charlie Sanders <charlie.fats@gmail.com>",
+  "dependencies": {
+    "connect": ">=1.0.0",
+    "mongolian": ">=0.8.0"
+  },
+  "main": "index",
+  "engines": { "node": "0.4.x" }
+}
